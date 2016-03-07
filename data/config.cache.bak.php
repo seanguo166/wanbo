@@ -1,7 +1,7 @@
 <?php
-$cfg_basehost = 'http://localhost';
+$cfg_basehost = 'http://www.5co5.com';
 $cfg_cmspath = '';
-$cfg_cookie_encode = 'W5cNTEIwqqg7uiQWw03gw2Ybc43EF';
+$cfg_cookie_encode = '44bWCcXUm3rVlbDiviFManMM1gIfRw';
 $cfg_indexurl = '/';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';

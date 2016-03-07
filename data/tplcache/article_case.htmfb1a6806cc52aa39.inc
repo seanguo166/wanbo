@@ -1,0 +1,46 @@
+<?php
+$z[0]=Array("field","",83,102);
+$z[0][4]['name']="title";
+$z[1]=Array("global","",103,129);
+$z[1][4]['name']="cfg_webname";
+$z[2]=Array("field","",173,195);
+$z[2][4]['name']="keywords";
+$z[3]=Array("field","",238,289);
+$z[3][4]['name']="description";
+$z[3][4]['function']="html2text(@me)";
+$z[4]=Array("global","",521,550);
+$z[4][4]['name']="cfg_templeturl";
+$z[5]=Array("global","",614,643);
+$z[5][4]['name']="cfg_templeturl";
+$z[6]=Array("global","",726,755);
+$z[6][4]['name']="cfg_templeturl";
+$z[7]=Array("global","",826,855);
+$z[7][4]['name']="cfg_templeturl";
+$z[8]=Array("global","",906,935);
+$z[8][4]['name']="cfg_templeturl";
+$z[9]=Array("include","",984,1019);
+$z[9][4]['filename']="head.htm";
+$z[10]=Array("type","[field:typelink function='str_replace(\"/index.html\",\"\",@me)' /]",1327,1430);
+$z[10][4]['typeid']="0";
+$z[10][4]['row']="1";
+$z[11]=Array("prenext","",1588,1616);
+$z[11][4]['get']="preurl";
+$z[12]=Array("prenext","",1785,1814);
+$z[12][4]['get']="nexturl";
+$z[13]=Array("field","",2095,2114);
+$z[13][4]['name']="title";
+$z[14]=Array("type","[field:typelink function='str_replace(\"/index.html\",\"\",@me)' /]",2180,2283);
+$z[14][4]['typeid']="0";
+$z[14][4]['row']="1";
+$z[15]=Array("field","",2308,2337);
+$z[15][4]['name']="typename";
+$z[16]=Array("field","",2357,2386);
+$z[16][4]['name']="typename";
+$z[17]=Array("tag","\n              <dd><a href=\"[field:link/]\" target=\"_blank\">[field:tag /]</a></dd>\n              ",2554,2682);
+$z[17][4]['getall']="0";
+$z[18]=Array("field","",2801,2819);
+$z[18][4]['name']="body";
+$z[19]=Array("include","",2851,2886);
+$z[19][4]['filename']="dock.htm";
+
+?>

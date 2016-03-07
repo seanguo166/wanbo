@@ -1,13 +1,13 @@
 <?php
 $cfg_disable_funs = 'phpinfo,eval,exec,passthru,shell_exec,system,proc_open,popen,curl_exec,curl_multi_exec,parse_ini_file,show_source,file_put_contents';
 $cfg_disable_tags = 'php';
-$cfg_basehost = 'http://localhost/';
+$cfg_basehost = 'http://www.5co5.com';
 $cfg_cmspath = '';
 $cfg_cookie_encode = 'MF79d2i31dodPQIdSenqOQw5pe2sXPg';
 $cfg_indexurl = '/';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';
-$cfg_webname = '我的网站';
+$cfg_webname = '万博网络';
 $cfg_adminemail = 'admin@dedecms.com';
 $cfg_html_editor = 'ckeditor';
 $cfg_arcdir = '/a';
@@ -28,7 +28,7 @@ $cfg_fck_xhtml = 'N';
 $cfg_df_style = '1000zhu';
 $cfg_multi_site = 'N';
 $cfg_dede_log = 'N';
-$cfg_powerby = 'Copyright &copy; 2002-2011 DEDECMS. 织梦科技 版权所有';
+$cfg_powerby = 'Copyright &copy; 2002-2016 5CO5.万博网络 版权所有';
 $cfg_arcsptitle = 'N';
 $cfg_arcautosp = 'N';
 $cfg_arcautosp_size = 5;
@@ -154,6 +154,6 @@ $cfg_memcache_mc_oth = '';
 $cfg_cross_sectypeid = 'N';
 $cfg_digg_update = 0;
 $cfg_feedback_guest = 'N';
-$tell = '150-2021-7966';
-$qq = '379144319';
+$tell = '138-1173-1173';
+$qq = '2673826';
 ?>
